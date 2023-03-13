@@ -8,7 +8,7 @@ public class HelloWorld {
         System.out.println(sumar(5,6));
     }
     public static int sumar(int x,int y) {
-        return  x+y+x;
+        return  x+y;
     }
 
 }
